@@ -4,7 +4,7 @@ from datetime import datetime
 
 st.set_page_config(page_title="College Event Calendar", page_icon="📅")
 
-st.title("📅 College Event Calendar (Web Version)")
+st.title("📅 College Event Calendar ")
 
 # Initialize storage
 if "events" not in st.session_state:
